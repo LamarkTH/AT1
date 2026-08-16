@@ -1,0 +1,1 @@
+Erro: nao foi possivel abrir o arquivo 'nao_existe.txt'.

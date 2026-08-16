@@ -1,0 +1,1 @@
+Erro: informe o nome do arquivo de entrada.
